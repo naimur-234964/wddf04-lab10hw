@@ -1,0 +1,82 @@
+.z{
+    border: 1px solid blue;
+    box-sizing: border-box;
+    margin: 0px auto;
+}
+
+/* Header Section Start*/
+header{
+    height: 80px;
+    width: 90%;
+    text-align: center;
+}
+/* Header Section End*/
+
+/* Nav Section Start*/
+nav{
+    height: 40px;
+    width: 90%;
+    text-align: center;
+}
+/* Nav Section End*/
+
+/* Main Section Start*/
+main{
+    height: 430px;
+    width: 90%;
+    text-align: center;
+}
+/* Main Section End*/
+
+/* Aside 1 Section Start*/
+aside{
+    height: 100%;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+/* Aside 1 Section End*/
+
+
+/* Content Section Start*/
+#main_section{
+    height: 100%;
+    width: 75%;
+    float: left;
+    text-align: center;
+    padding: 10px;
+}
+/* Content Section End*/
+
+#nested_section_1{
+    height: 30%;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#nested_section_2{
+    height: 70%;
+    width: 100%;
+}
+
+#article_1{
+    height: 100%;
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+
+#article_2{
+    height: 100%;
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+
+/* Footer Section Start*/
+footer{
+    height: 40px;
+    width: 90%;
+    text-align: center;
+}
+/* Footer Section End*/
